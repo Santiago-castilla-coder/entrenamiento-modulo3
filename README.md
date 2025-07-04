@@ -25,5 +25,12 @@ Desarrollar una aplicación que:
 
 ---
 
-## Estructura del proyecto
+
+## Requisitos previos
+
+- Tener instalado **Node.js** y **npm**
+- Instalar **JSON Server** globalmente:
+
+```bash
+npm install -g json-server
 
